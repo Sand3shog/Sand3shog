@@ -8,7 +8,7 @@
 - 📫 How to reach me **sandeshmaharzan5@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-<img align = "right" alt = "coding" width = "400" src="https://giphy.com/embed/0lGd2OXXHe4tFhb7Wh">
+<img align = "right" alt = "coding" width = "400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHA4N2I3ZGRqbTcxbGlxdXo1cWx1OXJqZTd6MjR1MHY1dnRrMDl0MCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/0lGd2OXXHe4tFhb7Wh/giphy.gif">
 <p align="left">
 <a href="https://linkedin.com/in/sandesh-maharjan-4633342a0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sandesh-maharjan-4633342a0" height="30" width="40" /></a>
 <a href="https://fb.com/sandesh.freak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sandesh.freak" height="30" width="40" /></a>
